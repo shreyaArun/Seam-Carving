@@ -1,6 +1,6 @@
-# Seam Carving
+## Seam Carving ##
 
-## Objective: To Scale Down Image using Seam Carving Technique.  
+# Objective: To Scale Down Image using Seam Carving Technique.  
 
 # Module wise explanation
 
@@ -34,4 +34,4 @@
 
 **IF YOU ENCOUNTER ANY BUGS OR FOR ANY SUGGESTIONS REGARDING THE IMPROVEMENT OF SEAM CARVING FEEL FREE TO CONTACT ME :**
 
-Shivang Srivastava	-	shivang.8@geu.ac.in<br/>
+Shivang Srivastava	-	shivang.8@geu.ac.in/<br/>
